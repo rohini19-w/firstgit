@@ -1,5 +1,5 @@
 # firstgit
 This is my first git repository.
-Rohini Waghe
-welcome to tutorial
+<br>Rohini Waghe
+<br>welcome to tutorial
 KB Joshi IIT, Pune
